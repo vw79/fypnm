@@ -42,6 +42,10 @@
 		{
 			"Name": "OneClickControlRig",
 			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
