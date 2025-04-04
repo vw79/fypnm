@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Cyberpunk Asset
 Content/Megapack/*
+
+/Plugins/BlueprintAssist/
+/Plugins/ElectronicNodes/
